@@ -1,4 +1,3 @@
-//<![CDATA[
 function pbtShortCode(_0x9439x3, _0x9439x4, _0x9439x5) {
     for (var _0x9439x6 = _0x9439x3.split('$'), _0x9439x7 = /[^{\}]+(?=})/g, _0x9439x8 = 0; _0x9439x8 < _0x9439x6.length; _0x9439x8++) {
         var _0x9439x9 = _0x9439x6[_0x9439x8].split('=');
@@ -348,4 +347,3 @@ fixedMenu = 'undefined' == typeof fixedMenu || fixedMenu, viewAllText = 'undefin
         })
     })
 })
-//]]>
